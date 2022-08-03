@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/asus/AndroidStudioProjects/DialogFragment/app/src/main/res/drawable/shape.xml" value="0.2265" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/DialogFragment/app/src/main/res/drawable/shape_viewed_me.xml" value="0.2265" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/DialogFragment/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/DialogFragment/app/src/main/res/layout/dialog_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/DialogFragment/app/src/main/res/layout/fragment1.xml" value="0.253125" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/DialogFragment/app/src/main/res/layout/fragment2.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/DialogFragment/app/src/main/res/layout/fragment3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/DialogFragment/app/src/main/res/layout/fragmentfirst.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/DialogFragment/app/src/main/res/layout/fragmentsecond.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/DialogFragment/app/src/main/res/layout/modal.xml" value="0.4" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/DialogFragment/app/src/main/res/layout/modal2.xml" value="0.4" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/DialogFragment/app/src/main/res/layout/modal3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/DialogFragment/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.123" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/DialogFragment/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.123" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
